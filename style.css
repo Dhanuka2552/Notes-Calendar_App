@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #434754;
+}
+
+.container {
+    width: 600px;
+    margin: 100px auto;
+    background: rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
